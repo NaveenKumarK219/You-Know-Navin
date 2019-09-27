@@ -1,0 +1,21 @@
+.nav-header {
+  margin: auto;
+}
+.nav-footer {
+  margin: auto;
+  background: #3f51b5;
+}
+.nav-footer-card {
+  margin: auto;
+  background: #3f51b5;
+  width: fit-content;
+}
+.nav-footer-card mat-card-subtitle {
+  color: white;
+}
+.nav-menu {
+  margin: auto;
+}
+.nav-content {
+  height: 69vh;
+}
